@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Laminat – Abschlussprofil",
+    "category": "Boden",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/boden-abschlussprofil-laminat-krefeld-01-detail.jpg",
+    "description": {
+      "de": "Sauber montiertes Abschlussprofil am Laminatübergang.",
+      "ru": "Аккуратно установленный переходный профиль для ламината.",
+      "en": "Neatly installed finishing profile at a laminate transition."
+    }
+  },
+  {
+    "title": "Laminat & Wand – Gesamtansicht",
+    "category": "Boden",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/boden-akzentwand-laminat-krefeld-01-after.jpg",
+    "description": {
+      "de": "Gesamtansicht mit verlegtem Laminat und sauber gestalteter Wandfläche.",
+      "ru": "Общий вид с уложенным ламинатом и аккуратно оформленной стеной.",
+      "en": "Overall view with installed laminate flooring and a neatly finished wall."
+    }
+  },
+  {
+    "title": "Sockelleiste – Außenecke",
+    "category": "Boden",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/boden-sockelleiste-aussenecke-krefeld-01-detail.jpg",
+    "description": {
+      "de": "Detailaufnahme einer sauber montierten Außenecke der Sockelleiste.",
+      "ru": "Деталь аккуратно смонтированного внешнего угла плинтуса.",
+      "en": "Close-up of a neatly installed outer skirting-board corner."
+    }
+  },
+  {
+    "title": "Sockelleiste – Innenecke",
+    "category": "Boden",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/boden-sockelleiste-innenecke-krefeld-01-detail.jpg",
+    "description": {
+      "de": "Detailaufnahme einer präzise zugeschnittenen Innenecke der Sockelleiste.",
+      "ru": "Деталь точно подрезанного внутреннего угла плинтуса.",
+      "en": "Close-up of a precisely cut inner skirting-board corner."
+    }
+  },
+  {
+    "title": "Holzschuppen außen",
+    "category": "Garten",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/garten-holzschuppen-krefeld-01-after.jpg",
+    "description": {
+      "de": "Außenansicht eines fertiggestellten Holzschuppens im Gartenbereich.",
+      "ru": "Внешний вид готового деревянного сарая в садовой зоне.",
+      "en": "Exterior view of a completed wooden shed in the garden area."
+    }
+  },
+  {
+    "title": "Treppe – vorher Gesamtansicht",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-01-before.jpg",
+    "description": {
+      "de": "Treppenbereich vor der Aufarbeitung in der Gesamtansicht.",
+      "ru": "Общий вид лестницы до обновления.",
+      "en": "Overall staircase view before refinishing."
+    }
+  },
+  {
+    "title": "Treppe – vorher Detail",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-02-before-detail.jpg",
+    "description": {
+      "de": "Detailaufnahme der Treppe vor der Renovierung.",
+      "ru": "Детальный вид лестницы до ремонта.",
+      "en": "Close-up of the staircase before renovation."
+    }
+  },
+  {
+    "title": "Treppe – nachher obere Ansicht 1",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-03-after-topview.jpg",
+    "description": {
+      "de": "Obere Perspektive der renovierten Treppe nach der Aufarbeitung.",
+      "ru": "Вид сверху на обновлённую лестницу после реставрации.",
+      "en": "Upper view of the refinished staircase after renovation."
+    }
+  },
+  {
+    "title": "Treppenbereich – obere Ansicht 2",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-04-after-topview.jpg",
+    "description": {
+      "de": "Weitere obere Ansicht des renovierten Treppenbereichs.",
+      "ru": "Ещё один вид сверху на обновлённый лестничный пролёт.",
+      "en": "Additional upper view of the renovated stair area."
+    }
+  },
+  {
+    "title": "Treppe – Seitenansicht nachher",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-05-after-sideview.jpg",
+    "description": {
+      "de": "Seitenansicht der renovierten Treppe mit sauberem Finish.",
+      "ru": "Боковой вид обновлённой лестницы с аккуратной отделкой.",
+      "en": "Side view of the renovated staircase with a clean finish."
+    }
+  },
+  {
+    "title": "Treppenhaus – nachher",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-06-after-stairwell.jpg",
+    "description": {
+      "de": "Ansicht des Treppenhauses nach der Aufarbeitung.",
+      "ru": "Вид лестничного пролёта после обновления.",
+      "en": "View of the stairwell after refinishing."
+    }
+  },
+  {
+    "title": "Treppe – Gesamtansicht nachher",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-07-after-overview.jpg",
+    "description": {
+      "de": "Gesamtansicht der fertig renovierten Treppe.",
+      "ru": "Общий вид полностью обновлённой лестницы.",
+      "en": "Overall view of the fully renovated staircase."
+    }
+  },
+  {
+    "title": "Treppenstufen – vorher",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-08-before-steps.jpg",
+    "description": {
+      "de": "Untere Stufen vor der Renovierung mit altem dunklem Lack.",
+      "ru": "Нижние ступени до ремонта со старым тёмным лаком.",
+      "en": "Lower steps before renovation with the old dark finish."
+    }
+  },
+  {
+    "title": "Treppe – Winkelansicht nachher",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-09-after-angle.jpg",
+    "description": {
+      "de": "Schräge Perspektive der renovierten Treppe und des Geländers.",
+      "ru": "Угловой вид обновлённой лестницы и перил.",
+      "en": "Angled view of the renovated staircase and handrail."
+    }
+  },
+  {
+    "title": "Treppe – Blick von oben",
+    "category": "Montage",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/montage-treppe-renovierung-krefeld-10-after-topview.jpg",
+    "description": {
+      "de": "Blick von oben auf die fertig renovierte Treppe.",
+      "ru": "Вид сверху на полностью обновлённую лестницу.",
+      "en": "Top-down view of the fully renovated staircase."
+    }
+  },
+  {
+    "title": "Akzentwand – vorher",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-akzentwand-krefeld-01-before.jpg",
+    "description": {
+      "de": "Wandfläche vor der Reparatur mit sichtbaren Beschädigungen.",
+      "ru": "Стена до ремонта с видимыми повреждениями.",
+      "en": "Wall surface before repair with visible damage."
+    }
+  },
+  {
+    "title": "Akzentwand – nachher",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-akzentwand-krefeld-02-after.jpg",
+    "description": {
+      "de": "Reparierte und neu gestaltete Akzentwand nach den Arbeiten.",
+      "ru": "Отремонтированная и обновлённая акцентная стена после работ.",
+      "en": "Repaired and redesigned accent wall after the work."
+    }
+  },
+  {
+    "title": "Zimmer – vorher 1",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-01-before.jpeg",
+    "description": {
+      "de": "Zimmeransicht vor der Renovierung.",
+      "ru": "Вид комнаты до ремонта.",
+      "en": "Room view before renovation."
+    }
+  },
+  {
+    "title": "Zimmer – vorher 2",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-02-before.jpeg",
+    "description": {
+      "de": "Weitere Zimmeransicht vor den Arbeiten.",
+      "ru": "Ещё один вид комнаты до начала работ.",
+      "en": "Additional room view before the work."
+    }
+  },
+  {
+    "title": "Zimmer – vorher Detail",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-03-before-detail.jpg",
+    "description": {
+      "de": "Detailaufnahme der beschädigten Wand vor der Reparatur.",
+      "ru": "Детальный вид повреждённой стены до ремонта.",
+      "en": "Close-up of the damaged wall before repair."
+    }
+  },
+  {
+    "title": "Zimmer – nachher 1",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-04-after.jpg",
+    "description": {
+      "de": "Zimmeransicht nach der Renovierung.",
+      "ru": "Вид комнаты после ремонта.",
+      "en": "Room view after renovation."
+    }
+  },
+  {
+    "title": "Zimmer – nachher 2",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-05-after.jpg",
+    "description": {
+      "de": "Weitere renovierte Zimmeransicht nach den Arbeiten.",
+      "ru": "Ещё один вид комнаты после завершения работ.",
+      "en": "Additional renovated room view after the work."
+    }
+  },
+  {
+    "title": "Zimmer – nachher 3",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-06-after.jpg",
+    "description": {
+      "de": "Weitere Perspektive des renovierten Zimmers.",
+      "ru": "Дополнительный ракурс отремонтированной комнаты.",
+      "en": "Another perspective of the renovated room."
+    }
+  },
+  {
+    "title": "Zimmer – Gesamtansicht nachher",
+    "category": "Reparaturen",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/reparaturen-zimmer-renovierung-krefeld-07-after-overview.jpg",
+    "description": {
+      "de": "Gesamtansicht des renovierten Zimmers.",
+      "ru": "Общий вид отремонтированной комнаты.",
+      "en": "Overall view of the renovated room."
+    }
+  },
+  {
+    "title": "Eingangstür grün – vorher",
+    "category": "Türen & Leisten",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/tueren-leisten-eingangstuer-gruen-krefeld-01-before.jpg",
+    "description": {
+      "de": "Eingangstür vor dem grünen Neuanstrich.",
+      "ru": "Входная дверь до покраски в зелёный цвет.",
+      "en": "Entrance door before the new green paint finish."
+    }
+  },
+  {
+    "title": "Eingangstür grün – nachher",
+    "category": "Türen & Leisten",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/tueren-leisten-eingangstuer-gruen-krefeld-02-after.jpg",
+    "description": {
+      "de": "Fertig gestrichene Eingangstür in Grün.",
+      "ru": "Готовая входная дверь, покрашенная в зелёный цвет.",
+      "en": "Finished entrance door painted green."
+    }
+  },
+  {
+    "title": "Zimmertür – vorher",
+    "category": "Türen & Leisten",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/tueren-leisten-tuer-krefeld-01-before.jpg",
+    "description": {
+      "de": "Innentür vor dem neuen weißen Anstrich.",
+      "ru": "Межкомнатная дверь до нового белого окрашивания.",
+      "en": "Interior door before the new white paint finish."
+    }
+  },
+  {
+    "title": "Zimmertür – nachher",
+    "category": "Türen & Leisten",
+    "city": "Krefeld",
+    "singleImage": "images/portfolio/tueren-leisten-tuer-krefeld-02-after.jpg",
+    "description": {
+      "de": "Innentür nach dem weißen Neuanstrich.",
+      "ru": "Межкомнатная дверь после нового белого окрашивания.",
+      "en": "Interior door after the new white paint finish."
+    }
+  }
+]
